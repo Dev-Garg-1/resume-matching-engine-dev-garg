@@ -37,8 +37,8 @@ Aditya Kumar(0.67), Priya Nair(0.58), Ananya Krishnan(0.35)
 ```
 resume-matching-engine/
 │
-├── main.py   ← Main solution (fully generalized)
-└── README.md              ← This file
+├── main.py                ← Main solution
+└── README.md              ← readme file
 ```
 
 ---
@@ -47,7 +47,7 @@ resume-matching-engine/
 
 ```bash
 # No external libraries needed — standard Python only
-python3 resume_matcher_v3.py
+python3 main.py
 ```
 
 **Requirements:** Python 3.6+ · Standard library only (`math`, `re`, `collections`)
