@@ -37,7 +37,7 @@ Aditya Kumar(0.67), Priya Nair(0.58), Ananya Krishnan(0.35)
 ```
 resume-matching-engine/
 │
-├── resume_matcher_v3.py   ← Main solution (fully generalized)
+├── main.py   ← Main solution (fully generalized)
 └── README.md              ← This file
 ```
 
